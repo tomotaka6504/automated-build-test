@@ -1,2 +1,2 @@
-FROM dockersampes/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="Tomotaka Tanaka"
